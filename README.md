@@ -13,7 +13,7 @@
 ### Textbooks/Tutorials
 - Dive Into Python (<http://www.diveintopython3.net/>): another survey of Python syntax, datatypes, etc.
 - The Official Python Tutorial (<https://docs.python.org/3/tutorial/>): self-explanatory.
-- Learn Python the Hard Way (<http://learnpythonthehardway.org/book/>): (note: for Python 2) another free online text.
+- Learn Python the Hard Way (<https://learnpythonthehardway.org/python3/>): a very good and free online textbook.
 - Think Python (<http://greenteapress.com/wp/think-python-2e/>): by Allen Downey. This book offers a very "computer science"-style introduction to Python. 
 - Python for You and Me (<http://pymbook.readthedocs.org/en/latest/>): Simple and clear. This is a great book for absolute newcomers, or to keep as a quick reference as you get used to the language. The latest version is Python 3.
 - Python 101 (<http://www.blog.pythonlibrary.org/2014/06/03/python-101-book-published-today/>) Available as a reasonably priced ebook. This is a new one from a popular Blogger about Python. Lots of practical examples. 
