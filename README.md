@@ -28,6 +28,11 @@
 - A Byte of Python (<https://python.swaroopch.com/>): now it is using Python 3
 - Introduction to Programming with Python (<http://opentechschool.github.io/python-beginners/en/index.html>): goes over the basic syntax and control structures in Python. The free book has numerous code examples to go along with each topic.
 
+### Cheat Sheets
+- One-page Python 3 cheat sheet [Python 3 Cheat Sheet](Python3_Cheat_Sheet.pdf)
+- Comprehensive Python Cheatsheet (<https://gto76.github.io/python-cheatsheet>)
+- Python Crash Course - Cheat Sheets (<https://github.com/ehmatthes/pcc/tree/master/cheat_sheets>)
+- Pysheet (<https://www.pythonsheets.com/>) 
 
 ### MOOCs
 - Python Course (<http://www.python-course.eu/python3_course.php>): Links to an external site
