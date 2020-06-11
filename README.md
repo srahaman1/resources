@@ -64,6 +64,10 @@
 - hackerrank Python challenges (<https://www.hackerrank.com/domains/python/py-introduction>)
 - Google's Python Exercises (<https://developers.google.com/edu/python/exercises/basic>)
 - LeetCode Online Judge (<https://leetcode.com/>)
+- Practice Python (http://www.practicepython.org/)
+- CodeChef (http://www.practicepython.org/)
+- Edabit  https://edabit.com/
+- Exercism https://exercism.io/
 
 ### Coding competitions
 - Google Code Jam (<https://code.google.com/codejam>)
