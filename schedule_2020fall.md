@@ -23,8 +23,8 @@
 |        19 | 10/27 | Object-Oriented Programming 2           |                    |
 |        20 | 10/29 | Object-Oriented Programming 3           | **Due**: HW3       |
 |        21 | 11/3  | Object-Oriented Programming 4           |                    |
-|        22 | 11/5  | Exam                                    |                    | **Quiz**                  |
-|        23 | 11/10 | Data Anatlytics using Python I          |                    | **Quiz**                  |
+|        22 | 11/5  | Data Anatlytics using Python I          |                    | **Quiz**                  |
+|        23 | 11/10 | Data Anatlytics using Python II         |                    | **Quiz**                  |
 |        24 | 11/12 | Advanced Features                       |                    |
 |        25 | 11/17 | Advanced Features II                    |                    |                           |
 |        26 | 11/19 | Project Presentation                    | **Due**: HW4       |
