@@ -30,4 +30,4 @@
 |        26 | 11/19 | Project Presentation                    | **Due**: HW4       |
 |           | 12/1  | Exam                                    |
 
-*updated: 8/23/2020*
+*updated: 8/24/2020*
