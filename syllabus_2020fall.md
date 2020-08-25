@@ -1,9 +1,18 @@
 # MIS3640 Problem Solving and Software Design - 2020 Fall - Syllabus
 
+
+## Datetime and Address
 - Online Class Time: Tuesday, Thursday, 
   - Section 01: 4:00PM - 5:30PM
   - Section 02: 8:00PM - 9:30PM
 - Online Class Platform: Zoom (check Canvas for Zoom link and password)
+
+
+## Class Modes
+- Mode 1: **LIVE** - Zoom class will be conducted and recorded. Recording link will be posted to Canvas.
+- Mode 2: **ASYNC** - Zoom will be open during class times as "live check-in" and/or office hours.
+
+
 
 ## Instructor Information
 
@@ -29,7 +38,7 @@ If you need help outside of class and office hours, use Slack.
 Python is a popular, general-purpose, multi-paradigm, open-source, scripting language. It is designed to emphasize code readability – has a clean syntax with high-level data types. While it is easy for beginners to learn, it is widely used in many scientific and business areas for data exploration. This course is an introduction to the Python programming language for students without prior programming experience. We cover data types, control flow, object-oriented programming, and data analysis. The examples and problems used in this course are drawn from diverse areas such as text processing, webpage scraping, and data analytics.
 
 ## Course Objectives
-Upon successfully completing this course, students will be able to “do something useful with Python”:
+Upon successfully completing this course, students will be able to "do something useful with Python":
 * Identify/characterize/define a problem
 * Design a Python program to solve the problem
 * Create executable code
@@ -51,9 +60,9 @@ There are no required texts for his course. All course material will be presente
 ## Software
 
 At your earliest convenience, download and install the following software:
-* Python 3.8.5. Go to https://www.python.org/downloads/release/python-385/. Click “Windows x86-64 executable installer”. After downloading, follow the instruction to finish installation. On the first screen, **enable the “Add Python 3.8 to PATH” option.** If you forget this step, uninstall Python in Settings and reinstall. 
-* Visual Studio Code (free). Go to https://code.visualstudio.com/ . Click the “Download for Windows”. After downloading, follow the instruction to finish installation.
-* GitHub desktop (free). Go to https://desktop.github.com/ . Click “Download for Windows (64bit)”. After downloading, follow the instruction to finish installation. You also need to create an account in GitHub website (https://github.com/). 
+* Python 3.8.5. Go to https://www.python.org/downloads/release/python-385/. Click "Windows x86-64 executable installer". After downloading, follow the instruction to finish installation. On the first screen, **enable the "Add Python 3.8 to PATH" option.** If you forget this step, uninstall Python in Settings and reinstall. 
+* Visual Studio Code (free). Go to https://code.visualstudio.com/ . Click the "Download for Windows". After downloading, follow the instruction to finish installation.
+* GitHub desktop (free). Go to https://desktop.github.com/ . Click "Download for Windows (64bit)". After downloading, follow the instruction to finish installation. You also need to create an account in GitHub website (https://github.com/). 
 
 ## Grading
 
@@ -85,7 +94,7 @@ There will be four assignments due. They are to be submitted by 11:59 pm on the 
 
 ## Examination: 
 
-There will be one take-home exam and one in-class open-book, open-notes examination. These exams will test your skills and knowledge of Python and program design. There is no final exam for this course, as the in-class exam is given late in the term and it and the term project provide many opportunities for me to assess your mastery and assimilation of the course material.
+There will be one take-home open-book open-notes examination in the exam week. The exam will test your skills and knowledge of Python and program design. 
 
 ## Term Project:
 
@@ -115,7 +124,7 @@ Instructions for the project can be found at the *Term Project* tab in *Canvas*.
 
   For your coursework, you are required to affirm your understanding of and commitment to the academic honesty and integrity expectations set forth in the Code. You will be asked to write the following pledge on every exam, paper, project, or other academic exercise:
 
-      “I have abided by the Babson Code of Ethics in this work and pledge to be better than that which would compromise my integrity.” 
+      "I have abided by the Babson Code of Ethics in this work and pledge to be better than that which would compromise my integrity." 
 
   If you have questions relative to academic integrity expectations within the context of a particular assignment, please ask me directly. General questions can be directed to communitystandards@babson.edu.  
 
