@@ -113,4 +113,5 @@ Make sure that your code gives appropriate attribution to external resources use
 
 ## Final Demo / Presentation Session
 - Date: Thursday, 11/19
+  
 We will meet for a demo session of your final projects. This session is for everyone to share what they've created, and will not be evaluated.
