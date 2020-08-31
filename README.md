@@ -2,11 +2,12 @@
 ### Class Information:
 
 - [Syllabus](syllabus_2020fall.md)
-- [Project](project.md)
 - [Schedule](schedule_2020fall.md) (subject to changes)
+- [Project](project.md)
+- Class [notebooks](/notebooks)
+- Class [slides](/slides)
 
 ### Resources
 
-- [Class Notebooks](/notebooks)
-- [Resources](misc/README.md)
+- [Learning Resources](misc/README.md)
 - [Python Style](misc/Python_style.md)
