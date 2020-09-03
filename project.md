@@ -31,7 +31,8 @@ From now until the end of the semester you will be working with a team of studen
 - You are required to work on a team of 2-3 students.
 - **One** team member needs to create a new public GitHub repository for team project. **Others fork** this repository.
 - Team needs to create a **Slack channel** for project communication in Slack class Workspace. 
-- The team needs to **schedule a time** to meet with professor.
+- ~~The team needs to **schedule a time** to meet with professor.~~ 
+- Team need to briefly talk to professor about potential project ideas via email or Slack.
   
 ### Team Formation Advice
 - **Try to work with people because you share a common interest** rather than simply working with your friends (we will do a structured activity to help with this aspect of team formation).
