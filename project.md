@@ -28,7 +28,7 @@ From now until the end of the semester you will be working with a team of studen
 
 ## 3. Teaming
 ### Requirements
-- You are required to work on a team of 2-3 students.
+- You are required to work on a team of 2-3 students. You can also choose to work individually, if you experience difficulties working with others remotely.
 - **One** team member needs to create a new public GitHub repository for team project. **Others fork** this repository.
 - Team needs to create a **Slack channel** for project communication in Slack class Workspace. 
 - ~~The team needs to **schedule a time** to meet with professor.~~ 
@@ -125,7 +125,7 @@ Your final project website may be implemented using whatever platform you like. 
 - Due: Monday, 11/30
 - Project code is worth 35% of the project grade (see code rubric on the Code Grading Rubric)
 
-Project code must be submitted via GitHub. You must include a **README** describing how to run your code, including any required dependencies (e.g. libraries to install) and any input files.
+Project code must be submitted via GitHub. You must include a **README** describing how to run your code, including any required dependencies (e.g. libraries to install) and any input files. [Here](https://github.com/kautukkundan/Awesome-Profile-README-templates) is a collection of awesome README templates to get some ideas.
 
 Proper documentation is important to your final submission, and one way to ensure you have adequate docstrings is to generate documentation from them. You can do this using [pydoc](https://docs.python.org/3.8/library/pydoc.html). If you want to generate truly beautiful documentation, check out [Sphinx](https://www.sphinx-doc.org/en/master/) (the tool used to generate the Python documentation).
 
