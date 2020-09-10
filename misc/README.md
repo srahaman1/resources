@@ -53,23 +53,23 @@
 
 ## Other Q&A
 - Stack Overflow (<http://stackoverflow.com/questions/tagged/python>): a large Q&A forum for programming concepts (not just Python). 
-- Python Subreddit (<https://www.reddit.com/r/python>)
 - Learn Python Subreddit (<https://www.reddit.com/r/learnpython/>)
+- Python Subreddit (<https://www.reddit.com/r/python>)
 - The Python IAQ: Infrequently Answered Questions (<http://norvig.com/python-iaq.html>) by Peter Norvig
 
 ## More practice problems
 - Python Challenge (<http://www.pythonchallenge.com/>): a series of puzzles you can try to test your Python abilities.
 - Coding Bat (<http://codingbat.com/python>): problems you can solve within an online interpreter.
-- Project Euler (<https://projecteuler.net/>): additional programming challenges you can try once your Python knowledge becomes stronger; problems are sorted by increasing difficulty.
 - CheckIO (<https://checkio.org/>): learn Python by exploring a game world
+- CodeChef (<https://www.codechef.com/>)
+- Codewars (<https://www.codewars.com/?language=python>): improve your skills by training on real code challenges.
+- Project Euler (<https://projecteuler.net/>): additional programming challenges you can try once your Python knowledge becomes stronger; problems are sorted by increasing difficulty.
 - hackerrank Python challenges (<https://www.hackerrank.com/domains/python>)
 - Google's Python Exercises (<https://developers.google.com/edu/python/exercises/basic>)
 - LeetCode Online Judge (<https://leetcode.com/>)
-- CodeChef (<https://www.codechef.com/>)
 - Practice Python (http://www.practicepython.org/): beginner friendly and difficulty levels are marked
 - Edabit  (<https://edabit.com/>): beginner friendly and difficulty levels are marked
 - Exercism (<https://exercism.io/>): beginner friendly and difficulty levels are marked
-- Codewars (<https://www.codewars.com/?language=python>): improve your skills by training on real code challenges.
 - Advent of Code (<https://adventofcode.com/>): really fun, more challenging.
 
 ## Coding competitions
