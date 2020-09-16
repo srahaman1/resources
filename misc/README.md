@@ -11,12 +11,13 @@
 
 
 ## Textbooks/Tutorials
-- Dive Into Python (<https://www.diveintopython3.net/>): another survey of Python syntax, datatypes, etc.
-- The Official Python Tutorial (<https://docs.python.org/3/tutorial/>): self-explanatory.
-- Python Crash Course (<https://ehmatthes.github.io/pcc_2e/regular_index/>): well written and nicely organized.
 - Learn Python 3 the Hard Way (<https://learnpythonthehardway.org/python3/>): a very good and free online textbook.
 - Think Python (<https://greenteapress.com/wp/think-python-2e/>): by Allen Downey. This book offers a very "computer science"-style introduction to Python. 
 - Automate the Boring Stuff with Python (<https://automatetheboringstuff.com/>): Great book for self-study, by Al Sweigart.
+- Dive Into Python (<https://www.diveintopython3.net/>): another survey of Python syntax, datatypes, etc.
+- The Official Python Tutorial (<https://docs.python.org/3/tutorial/>): self-explanatory.
+- Practical Python Programming (<https://dabeaz-course.github.io/practical-python/>)
+- Python Crash Course (<https://ehmatthes.github.io/pcc_2e/regular_index/>): well written and nicely organized.
 - Invent Your Own Computer Games with Python (<https://inventwithpython.com/invent4thed/>): Develop your Python skills by making games or hacking ciphers. Another great book for self-study.
 - Python for You and Me (<https://pymbook.readthedocs.org/en/latest/>): Simple and clear. This is a great book for absolute newcomers, or to keep as a quick reference as you get used to the language. The latest version is Python 3.
 - Python Essential Reference (<https://www.dabeaz.com/per.html>): The definitive reference for both Python and much of the standard library. A bit old.
