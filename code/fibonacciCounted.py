@@ -1,4 +1,7 @@
 def fib(n):
+    """
+    an intuitive version of fibonacci
+    """
     global number_fib_calls
     number_fib_calls += 1
     if n == 1:
@@ -13,6 +16,9 @@ known = {1: 1, 2: 2}
 
 
 def fib_efficient(n):
+    """
+    a "memori version of fibonacci
+    """
     global number_fib_calls
     number_fib_calls += 1
     if n in known:

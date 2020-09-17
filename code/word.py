@@ -5,7 +5,7 @@
 # Assume words.txt is under session09 folder
 # f = open('session09/words.txt')
 # line = f.readline()
-# print(line) 
+# print(line)
 
 
 # f = open('session09/words.txt')
@@ -16,19 +16,20 @@
 #     word = line.strip()
 #     number_of_words += 1
 
-# print(number_of_words) 
+# print(number_of_words)
 
 
 def find_long_words():
     """
     prints only the words with more than 20 characters
     """
-    f = open('session09/words.txt') # Assume words.txt is under session09 folder
-    
+    f = open('session09/words.txt')  # Assume words.txt is under session09 folder
+
     for line in f:
         word = line.strip()
         if len(word) > 20:
-            print(word, len(word)) 
+            print(word, len(word))
+
 
 # find_long_words()
 
@@ -62,6 +63,7 @@ def avoids(word, forbidden):
     """
     pass
 
+
 # print(avoids('Babson', 'abcde'))
 # print(avoids('College', 'e'))
 # print(avoids('Boston', 'xyz'))
@@ -91,10 +93,8 @@ def uses_only(word, available):
 
 
 def find_words_only_use_planet():
-    """
-    """
+    """"""
     pass
-
 
 
 # print('Number of words that use only letters from "planets" is', find_words_only_use_planet())
@@ -160,4 +160,3 @@ def is_abecedarian_using_while(word):
     (double letters are ok).
     """
     pass
-
