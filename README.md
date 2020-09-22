@@ -4,6 +4,7 @@
 - [Syllabus](syllabus_2020fall.md)
 - [Schedule](schedule_2020fall.md) (subject to changes)
 - [Project](project.md)
+- [Code Grading Rubric](code_grading_rubric.md)
 - Class [notebooks](/notebooks)
 - Class [slides](/slides)
 
